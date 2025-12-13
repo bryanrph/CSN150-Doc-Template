@@ -1,4 +1,4 @@
-# Cybersecurity : CSN150
+# Cybersecurity : CSN150 access point
 Project: ESP32accespoint
 
 ## Purpose
